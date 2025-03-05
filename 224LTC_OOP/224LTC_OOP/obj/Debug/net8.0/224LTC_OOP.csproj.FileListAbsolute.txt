@@ -1,0 +1,14 @@
+E:\Project_C#\LTC_224\224LTC_OOP\224LTC_OOP\obj\Debug\net8.0\224LTC_OOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project_C#\LTC_224\224LTC_OOP\224LTC_OOP\obj\Debug\net8.0\224LTC_OOP.AssemblyInfoInputs.cache
+E:\Project_C#\LTC_224\224LTC_OOP\224LTC_OOP\obj\Debug\net8.0\224LTC_OOP.AssemblyInfo.cs
+E:\Project_C#\LTC_224\224LTC_OOP\224LTC_OOP\obj\Debug\net8.0\224LTC_OOP.csproj.CoreCompileInputs.cache
+E:\Project_C#\LTC_224\224LTC_OOP\224LTC_OOP\bin\Debug\net8.0\224LTC_OOP.exe
+E:\Project_C#\LTC_224\224LTC_OOP\224LTC_OOP\bin\Debug\net8.0\224LTC_OOP.deps.json
+E:\Project_C#\LTC_224\224LTC_OOP\224LTC_OOP\bin\Debug\net8.0\224LTC_OOP.runtimeconfig.json
+E:\Project_C#\LTC_224\224LTC_OOP\224LTC_OOP\bin\Debug\net8.0\224LTC_OOP.dll
+E:\Project_C#\LTC_224\224LTC_OOP\224LTC_OOP\bin\Debug\net8.0\224LTC_OOP.pdb
+E:\Project_C#\LTC_224\224LTC_OOP\224LTC_OOP\obj\Debug\net8.0\224LTC_OOP.dll
+E:\Project_C#\LTC_224\224LTC_OOP\224LTC_OOP\obj\Debug\net8.0\refint\224LTC_OOP.dll
+E:\Project_C#\LTC_224\224LTC_OOP\224LTC_OOP\obj\Debug\net8.0\224LTC_OOP.pdb
+E:\Project_C#\LTC_224\224LTC_OOP\224LTC_OOP\obj\Debug\net8.0\224LTC_OOP.genruntimeconfig.cache
+E:\Project_C#\LTC_224\224LTC_OOP\224LTC_OOP\obj\Debug\net8.0\ref\224LTC_OOP.dll
